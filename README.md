@@ -1,2 +1,2 @@
-# Gruvbox Wallpapers 🌄
+# FullHD Gruvbox Wallpapers 🌄
 Optimized images by weight and size
