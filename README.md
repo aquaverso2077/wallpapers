@@ -1,2 +1,2 @@
 # Gruvbox Wallpapers 🌄
-Optimized images by weight
+Optimized images by weight and size
